@@ -5,5 +5,5 @@
 ## Installationsschritte:
 Laden Sie die Installationsdatei [install_buchheister_database.bat](https://github.com/ManuelNRW/installation-buchheister-database/blob/437f997e36bd1e8caac77b8e87de27f188886346/install_buchhesiter_database.bat) herunter.
 ![Anleitung1](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/inst1.png)
-![Anleitung2](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/inst1.png)
+![Anleitung2](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/inst2.png)
 Führen Sie die Datei durch Doppelklick aus, um die Installation zu starten.
