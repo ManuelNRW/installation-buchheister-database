@@ -4,4 +4,6 @@
 2. Microsoft 365 Anmeldung: Vergewissern Sie sich, dass der Benutzer bereits mit den Microsoft 365-Zugangsdaten in Microsoft Access angemeldet ist.
 ## Installationsschritte:
 Laden Sie die Installationsdatei [install_buchheister_database.bat](https://github.com/ManuelNRW/installation-buchheister-database/blob/437f997e36bd1e8caac77b8e87de27f188886346/install_buchhesiter_database.bat) herunter.
+![Anleitung1]([Pfad/zum/Bild.png](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/inst1.png))
+![Anleitung2]([Pfad/zum/Bild.png](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/inst1.png))
 Führen Sie die Datei durch Doppelklick aus, um die Installation zu starten.
