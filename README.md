@@ -1,6 +1,6 @@
 # Installation der Buchheister-Datenbank
 ## Voraussetzungen:
-1. Benutzerberechtigungen: Stellen Sie sicher, dass alle notwendigen Benutzerberechtigungen für den Zugriff auf die Datenbank korrekt eingerichtet sind. Dies sollte vor Beginn der Installation überprüft werden.
+1. Benutzerberechtigungen: Stellen Sie sicher, dass alle notwendigen Benutzerberechtigungen unter [Link](https://buchheistermarketing.sharepoint.com/sites/buchheister_sharepoint_database/_layouts/15/user.aspx?showLimitedAccessUsers=true) für den Zugriff auf die Datenbank korrekt eingerichtet sind. Die Benutzer müssen den jeweiligen Rollen zugeordnet werden, um die entsprechenden Zugriffsrechte zu erhalten. 
 2. Microsoft 365 Anmeldung: Vergewissern Sie sich, dass der Benutzer bereits mit den Microsoft 365-Zugangsdaten in Microsoft Access angemeldet ist.
 ## Installationsschritte:
 Laden Sie die Installationsdatei install_buchheister_database.bat herunter.
