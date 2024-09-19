@@ -14,7 +14,7 @@ if not exist "%targetDir%" (
 :: Dateien herunterladen
 echo Starte Download der Dateien...
 
-bitsadmin /transfer "DownloadFE" "https://www.internal.buchheister.de/buchheister_database/download/buchheister_database_FE.accde" "%targetDir%\buchheister_database_FE.accde"
+bitsadmin /transfer "DownloadFE" "https://www.internal.buchheister.de/buchheister_database/download/32/buchheister_database_FE.accde" "%targetDir%\buchheister_database_FE.accde"
 bitsadmin /transfer "DownloadTXT1" "https://www.internal.buchheister.de/buchheister_database/download/1685163548135843521485.txt" "%targetDir%\1685163548135843521485.txt"
 bitsadmin /transfer "DownloadVBS" "https://www.internal.buchheister.de/buchheister_database/download/update_buchheister_database.vbs" "%targetDir%\update_buchheister_database.vbs"
 bitsadmin /transfer "DownloadTXT2" "https://www.internal.buchheister.de/buchheister_database/download/Updateanleitung.txt" "%targetDir%\Updateanleitung.txt"
