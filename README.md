@@ -9,4 +9,7 @@ Laden Sie die Installationsdatei [install_buchheister_database.bat](https://gith
 Führen Sie die Datei durch Doppelklick aus, um die Installation zu starten.
 ![Anleitung3](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/inst3.png)
 
+Falls der Download fehlschlägt, ist es möglich, dass die Einstellung 'Getaktete Verbindung' deaktiviert werden muss.
+![Getaktete Verbindung](https://github.com/ManuelNRW/installation-buchheister-database/raw/main/Getaktete Verbindung.png)
+
 Anschließend kann die Datenbank von der Desktopverknüpfung "buchheister_database" aus gestartet werden.
